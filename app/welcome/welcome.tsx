@@ -150,7 +150,7 @@ export function Welcome() {
           style={{
             position: "relative",
             minHeight: 400,
-            backgroundImage: "url('/homepage/slider-1.jpg')",
+            backgroundImage: "url('/welcome/hero-bg.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
