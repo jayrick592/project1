@@ -229,7 +229,7 @@ export function Welcome() {
                 {/* Logo Centered */}
                 <div style={{ display: "flex", flexDirection: "column", alignItems: "center", marginRight: "60px" }}>
                   <img
-                    src="/welcome/logo.png"
+                    src="/logo_about/logo.ico"
                     alt="Infinity Logo"
                     style={{ height: 48, marginBottom: 4 }}
                   />
