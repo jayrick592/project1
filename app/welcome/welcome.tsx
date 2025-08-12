@@ -446,7 +446,7 @@ export function Welcome() {
         <section
           ref={expertSkillRef}
           style={{
-            background: `url('https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1500&q=80') center/cover no-repeat`,
+            background: `url('/expert_section/expert-bg.jpg') center/cover no-repeat`,
             padding: '80px 0',
             color: '#fff',
             position: 'relative',
