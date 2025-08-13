@@ -734,7 +734,7 @@ export function Welcome() {
         {/* Team/Stats Section */}
         <section
           style={{
-            background: `url('https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat`,
+            background: `url('/stats_section/fun-fact-bg.jpg`,
             padding: '60px 0',
             color: '#fff',
             textAlign: 'center',
