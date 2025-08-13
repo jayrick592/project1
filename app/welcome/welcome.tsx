@@ -645,7 +645,7 @@ export function Welcome() {
             {/* Left: Christmas Hat */}
             <div style={{ display: "flex", alignItems: "center", gap: 18 }}>
               <img
-                src="/promo/christmas-hat.png"
+                src="/christmas_hat/stocking-cap.png"
                 alt="Christmas Hat"
                 style={{ width: 64, height: 64 }}
               />
